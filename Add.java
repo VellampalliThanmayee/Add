@@ -1,4 +1,4 @@
-public class Add {
+ class Add {
 
    public static void main(String[] args) {
         
