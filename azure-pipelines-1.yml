@@ -1,0 +1,7 @@
+- task: CmdLine@2
+  inputs:
+    script: |
+      echo Write your commands here
+      javac Add.java
+      java Add
+      echo Hello world
